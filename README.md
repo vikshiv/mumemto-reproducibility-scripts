@@ -1,4 +1,4 @@
-# **mumemto**: finding multi-MUMs and MEMs in pangenomes
+# Reproducibility scripts for **mumemto**
 
 Mumemto is a tool for analyzing pangenome sequence collections. It identifies **maximal unique/exact matches (multi-MUMs and multi-MEMs)** present across a collection of sequences. Mumemto can **visualize** pangenome synteny, **identify misassemblies**, and provide a unifiying structure to a pangenome.
 
