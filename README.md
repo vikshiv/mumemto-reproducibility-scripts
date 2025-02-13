@@ -4,7 +4,7 @@ Mumemto is a tool for analyzing pangenome sequence collections. It identifies **
 
 Preprint available at [https://doi.org/10.1101/2025.01.05.631388](https://doi.org/10.1101/2025.01.05.631388).
 
-This repo contains scripts to recreate the results reported in the preprint. The main software repo is available at [https://github.com/vikshiv/mumemto](https://github.com/vikshiv/mumemto).
+This repo contains scripts to recreate the results reported in the preprint. The main software repo is available at [https://github.com/vikshiv/mumemto](https://github.com/vikshiv/mumemto). These scripts are intended for use with Mumemto v1.1.0.
 
 ## How to use this repo
 Each figure has a collection of scripts to reproduce the corresponding figure in the paper. The assembly data for each experiment can be found [here](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/vshivak1_jh_edu/El6sp7EIyN9Lmw9Y8uvJrPcB7DxkNzjoDImVzOCIu7oUBg?e=v0EujG). For each bash script, change the path at the top to match the data path.
